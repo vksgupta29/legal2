@@ -1,22 +1,19 @@
-# IND AMICUS LEGAL website (auto-updating)
+# Photos for the website
 
-Daily at about 7:00 am IST, GitHub runs `fetch_updates.py`, saves new regulator items to `updates.json`, and your site shows them under "What's new". No action needed after setup.
+Add JPG photos to this folder with EXACTLY these names. Until a file exists, the page shows a coloured illustration instead.
+Use landscape photos, about 1600 px wide, under 400 KB each (compress with squoosh.app).
 
-## One-time setup (about 10 minutes)
-1. Create a free account at github.com and a new **public** repository, for example `indamicus-site`.
-2. Upload everything in this folder, **including the hidden `.github` folder**. Easiest: unzip, then drag all files and folders into the repository page.
-3. Repository **Settings > Actions > General > Workflow permissions**: choose **Read and write permissions**, then Save.
-4. Repository **Settings > Pages**: Source = **Deploy from a branch**, Branch = **main**, folder = **/(root)**, Save. Your site goes live at `https://<username>.github.io/indamicus-site/`.
-5. **Actions** tab > "Refresh updates daily" > **Run workflow**, to confirm it works. A green tick means success.
-6. Optional: connect your own domain under Settings > Pages > Custom domain.
+| File name | Used on | Suggested subject |
+|---|---|---|
+| home-hero.jpg | Home, top (portrait crop works best) | Lawyers reviewing an agreement, modern office |
+| home-about.jpg | Home, About block | Advocate consulting with a client |
+| expertise.jpg | Expertise page | Lawyers around a conference table |
+| sectors.jpg | Sectors page | City skyline, offices, infrastructure |
+| whats-new.jpg | What's new page | Documents and a laptop on a desk |
+| about.jpg | About page | Law library, books, reading desk |
+| corporate-commercial.jpg | Corporate & commercial page | Boardroom meeting |
+| finance-regulatory.jpg | Finance & regulatory page | Financial district, documents |
+| disputes-investigations.jpg | Disputes & investigations page | Courtroom, gavel, scales of justice |
+| legal-documents.jpg | Accessibility, Privacy, Cookie and Terms pages | Documents and a pen on a desk |
 
-## Check these feed addresses once
-Open each URL in `FEEDS` (top of `fetch_updates.py`) in a browser. It should show XML. These were written from memory and could not be tested live. Fix any that fail and add more regulators if they publish feeds. If a feed fails, the site keeps showing earlier items.
-
-## Good to know
-- Each item shows the regulator's title, a short excerpt and a link. Check the official text before acting.
-- GitHub pauses scheduled jobs in a repository with no activity for 60 days. Daily refresh commits normally keep it active. If updates stop, press "Run workflow".
-- MCA, Income Tax and CBIC may not offer feeds. Those items need adding by hand to `updates.json`.
-
-## Photos
-See `images/README.md` for the photo file names. Upload JPGs to the `images` folder and they appear automatically.
+Free sources that allow commercial use: Unsplash, Pexels, Pixabay. Check each photo's licence, and avoid recognisable people unless they have consented.
