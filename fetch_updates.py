@@ -2,7 +2,7 @@
 """Collect regulator RSS/Atom feeds into updates.json for the IND AMICUS LEGAL website.
 Standard library only. Runs daily via GitHub Actions (see README.md).
 """
-import json, re, sys, html, time, urllib.request
+import json, re, sys, html, time, urllib.request, urllib.error
 import xml.etree.ElementTree as ET
 from urllib.parse import urlparse
 from datetime import datetime, timezone
@@ -13,11 +13,13 @@ FEEDS = [
     ("SEBI", "https://www.sebi.gov.in/sebirss.xml"),
     ("RBI", "https://www.rbi.org.in/notifications_rss.xml"),
     ("RBI", "https://www.rbi.org.in/pressreleases_rss.xml"),
-    # Income Tax Department / CBDT (official feeds from incometaxindia.gov.in/tax-feeds)
-    ("Income Tax", "https://www.incometaxindia.gov.in/circular-rss-feed/-/asset_publisher/bxhj/rss"),
-    ("Income Tax", "https://www.incometaxindia.gov.in/notification-rss-feed/-/asset_publisher/bxhj/rss"),
-    ("Income Tax", "https://www.incometaxindia.gov.in/press-release-rss-feed/-/asset_publisher/bxhj/rss"),
-    ("Income Tax", "https://www.incometaxindia.gov.in/miscellaneous-communications-rss-feed/-/asset_publisher/bxhj/rss"),
+    # Income Tax Department / CBDT feeds are listed at incometaxindia.gov.in/tax-feeds, but the portal
+    # returned HTTP 403 (Forbidden) to GitHub's servers on 24 Oct 2026, so they are switched off here.
+    # CBDT items are added by hand in manual_updates.json instead. Remove the '# ' to try again later.
+    # ("Income Tax", "https://www.incometaxindia.gov.in/circular-rss-feed/-/asset_publisher/bxhj/rss"),
+    # ("Income Tax", "https://www.incometaxindia.gov.in/notification-rss-feed/-/asset_publisher/bxhj/rss"),
+    # ("Income Tax", "https://www.incometaxindia.gov.in/press-release-rss-feed/-/asset_publisher/bxhj/rss"),
+    # ("Income Tax", "https://www.incometaxindia.gov.in/miscellaneous-communications-rss-feed/-/asset_publisher/bxhj/rss"),
 ]
 MAX_ITEMS = 80
 PER_SOURCE = 12   # keeps every regulator visible on the page
@@ -30,6 +32,11 @@ def fetch(url, tries=3):
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=40) as r:
                 return r.read()
+        except urllib.error.HTTPError as e:
+            if e.code in (401, 403, 404):   # access refused: do not keep retrying
+                raise
+            last = e
+            time.sleep(5 * (n + 1))
         except Exception as e:
             last = e
             time.sleep(5 * (n + 1))
