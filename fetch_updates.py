@@ -13,8 +13,14 @@ FEEDS = [
     ("SEBI", "https://www.sebi.gov.in/sebirss.xml"),
     ("RBI", "https://www.rbi.org.in/notifications_rss.xml"),
     ("RBI", "https://www.rbi.org.in/pressreleases_rss.xml"),
+    # Income Tax Department / CBDT (official feeds from incometaxindia.gov.in/tax-feeds)
+    ("Income Tax", "https://www.incometaxindia.gov.in/circular-rss-feed/-/asset_publisher/bxhj/rss"),
+    ("Income Tax", "https://www.incometaxindia.gov.in/notification-rss-feed/-/asset_publisher/bxhj/rss"),
+    ("Income Tax", "https://www.incometaxindia.gov.in/press-release-rss-feed/-/asset_publisher/bxhj/rss"),
+    ("Income Tax", "https://www.incometaxindia.gov.in/miscellaneous-communications-rss-feed/-/asset_publisher/bxhj/rss"),
 ]
-MAX_ITEMS = 40
+MAX_ITEMS = 80
+PER_SOURCE = 12   # keeps every regulator visible on the page
 UA = {"User-Agent": "Mozilla/5.0 (compatible; IndAmicusLegal-UpdateBot/1.0; +mailto:info@indamicus.com)",
       "Accept": "application/rss+xml, application/xml, text/xml, */*"}
 
@@ -80,6 +86,15 @@ def read_feed(label, url):
                         "date": when.date().isoformat() if when else "", "summary": summ})
     return out
 
+def load_manual():
+    """Hand-added items (for bodies with no official feed, e.g. MCA, Supreme Court). See manual_updates.json."""
+    try:
+        with open("manual_updates.json", encoding="utf-8") as f:
+            d = json.load(f)
+        return d["items"] if isinstance(d, dict) else d
+    except Exception:
+        return []
+
 def keep(i):
     path = urlparse(i["url"]).path
     if path in ("", "/"):            # curated seed items that link to a portal home page
@@ -109,15 +124,22 @@ def main():
         existing = []
     today = datetime.now(timezone.utc).date().isoformat()
     merged, seen = [], set()
-    for i in existing + fresh:        # existing first, so first-seen dates are kept
-        if i["url"] in seen:
+    for i in load_manual() + existing + fresh:   # manual first, then existing, so first-seen dates are kept
+        key = (i["url"], i["title"])
+        if key in seen:
             continue
-        seen.add(i["url"])
+        seen.add(key)
         if not i.get("date"):
             i["date"] = today
         if keep(i):
             merged.append(i)
     merged.sort(key=lambda x: x["date"], reverse=True)
+    count, capped = {}, []
+    for i in merged:
+        count[i["source"]] = count.get(i["source"], 0) + 1
+        if count[i["source"]] <= PER_SOURCE:
+            capped.append(i)
+    merged = capped
     data = {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "items": merged[:MAX_ITEMS]}
     with open("updates.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
