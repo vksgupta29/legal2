@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T05:37:52+00:00",
+  "updated": "2026-10-24T05:42:19+00:00",
   "items": [
     {
       "source": "SEBI",
@@ -65,6 +65,20 @@
       "summary": "The Reserve Bank of India had issued the draft Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026 on August 7, 2026 , inviting feedback from stakeholders until August 28,…"
     },
     {
+      "source": "Income Tax",
+      "date": "2026-10-21",
+      "title": "CBDT Notification 136/2026: TDS exemption on New Development Bank INR bond interest",
+      "summary": "Exempts TDS on interest paid by the New Development Bank on its Maharajah INR bonds, for resident and FII holders, from tax year 2026-27.",
+      "url": "https://www.incometaxindia.gov.in/notifications"
+    },
+    {
+      "source": "Income Tax",
+      "date": "2026-10-20",
+      "title": "Income-tax (Seventh Amendment) Rules, 2026: new Form 173A",
+      "summary": "Form 173A is now needed to claim the exemption on interest and capital gains from government securities under the Income-tax Act, 2025.",
+      "url": "https://www.incometaxindia.gov.in/notifications"
+    },
+    {
       "source": "RBI",
       "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries",
       "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
@@ -107,11 +121,25 @@
       "summary": "RBI/2026-27/291 A.P. (DIR Series) Circular No. 25 October 10, 2026 To, All Authorised Dealers Madam/Sir, Risk Management and Inter-Bank Dealings Attention of Authorised Dealers is invited to the Master Direction - Risk Management and…"
     },
     {
+      "source": "Income Tax",
+      "date": "2026-10-08",
+      "title": "Income-tax (Sixth Amendment) Rules, 2026: Form 161 amended",
+      "summary": "CBDT amended the Income-tax Rules, 2026 and notified the revised Form 161.",
+      "url": "https://www.incometaxindia.gov.in/notifications"
+    },
+    {
       "source": "IBBI",
       "date": "2026-09-22",
       "title": "Liquidation Process (Fifth Amendment) Regulations, 2026",
       "summary": "IBBI notification dated 22 September 2026 amending the Insolvency and Bankruptcy Board of India (Liquidation Process) Regulations.",
       "url": "https://ibbi.gov.in"
+    },
+    {
+      "source": "Income Tax",
+      "date": "2026-09-17",
+      "title": "Income-tax (Fourth Amendment) Rules, 2026: Forms 169 and 171 revised",
+      "summary": "CBDT notification of 17 September 2026 revised Form No. 169 and Form No. 171 under the Income-tax Rules, 2026.",
+      "url": "https://www.incometaxindia.gov.in/notifications"
     },
     {
       "source": "SEBI",
@@ -210,6 +238,13 @@
       "summary": "Updates the list of goods with specific GST rates to match the Finance Act 2026.",
       "url": "https://www.cbic.gov.in",
       "date": "2026-04-30"
+    },
+    {
+      "source": "Income Tax",
+      "date": "2026-03-20",
+      "title": "Notification 22/2026: Income-tax Rules, 2026 notified",
+      "summary": "The new rules under the Income-tax Act, 2025 replace the 1962 Rules and apply from 1 April 2026.",
+      "url": "https://www.incometaxindia.gov.in/notifications"
     },
     {
       "source": "Supreme Court",
