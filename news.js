@@ -10,7 +10,7 @@ function render(items,upd){
  if(cap)items=items.slice(0,cap);
  ul.textContent='';cur='all';lim=step;
  items.forEach(function(i){var li=document.createElement('li');li.dataset.k=i.source;
-  li.innerHTML='<time></time><div><small></small><h3></h3><p></p></div><a target="_blank" rel="noopener">Official source</a>';
+  li.innerHTML='<time></time><div><small></small><h3></h3><p></p></div><a>Official source</a>';
   li.querySelector('time').textContent=fmt(i.date);li.querySelector('small').textContent=i.source;
   li.querySelector('h3').textContent=i.title;li.querySelector('p').textContent=i.summary||'';
   if(/^https?:\/\//.test(i.url))li.querySelector('a').href=i.url;

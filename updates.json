@@ -1,103 +1,47 @@
 {
-  "updated": "2026-10-23T11:16:35+00:00",
+  "updated": "2026-10-23T00:00:00+00:00",
   "items": [
-    {
-      "source": "SEBI",
-      "title": "Caution to Investors against Stock Tips offered through Invitation-only WhatsApp Groups",
-      "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/caution-to-investors-against-stock-tips-offered-through-invitation-only-whatsapp-groups_105389.html",
-      "date": "2026-10-23",
-      "summary": ""
-    },
-    {
-      "source": "SEBI",
-      "title": "Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment",
-      "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/margin-waiver-on-subsequent-buy-sell-transactions-post-early-pay-in-epi-in-cash-segment_105364.html",
-      "date": "2026-10-23",
-      "summary": ""
-    },
-    {
-      "source": "RBI",
-      "title": "Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026",
-      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13743&Mode=0",
-      "date": "2026-10-23",
-      "summary": "RBI/2026-27/297 DOR.CAP.REC.251/21-02-002/2026-27 October 23, 2026 Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026 Please refer to 'Chapter VII: Leverage Ratio framework'…"
-    },
-    {
-      "source": "RBI",
-      "title": "RBI issues guidelines on the implementation of Leverage Ratio 2017 Standard",
-      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63854",
-      "date": "2026-10-23",
-      "summary": "The Reserve Bank of India had issued the draft Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026 on August 7, 2026 , inviting feedback from stakeholders until August 28,…"
-    },
-    {
-      "source": "RBI",
-      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries",
-      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
-      "date": "2026-10-19",
-      "summary": "RBI/2026-27/296 DoR.AML.REC.250/14.06.001/2026-27 October 19, 2026 The Chairpersons/ CEOs of the Commercial Banks, Small Finance Banks, Payment Banks, Urban Co-operative Banks, Rural Co-operative Banks, Regional Rural Banks, Local Area…"
-    },
-    {
-      "source": "RBI",
-      "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
-      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
-      "date": "2026-10-19",
-      "summary": "RBI/2026-27/295 DOR.MRG.REC.No.249/00-00-020/2026-27 October 19, 2026 Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of…"
-    },
-    {
-      "source": "RBI",
-      "title": "Reserve Bank of India (Commercial Banks - Miscellaneous) Second Amendment Directions, 2026",
-      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13740&Mode=0",
-      "date": "2026-10-19",
-      "summary": "RBI/2026-27/294 DOR.MRG.REC.No.248/00-00-020/2026-27 October 19, 2026 Reserve Bank of India (Commercial Banks - Miscellaneous) Second Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of…"
-    },
-    {
-      "source": "RBI",
-      "title": "Risk Management and Inter-Bank Dealings",
-      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0",
-      "date": "2026-10-12",
-      "summary": "RBI/2026-27/293 A.P. (DIR Series) Circular No. 27 October 12, 2026 To, All Authorised Dealers Madam/Sir, Risk Management and Inter-Bank Dealings Attention of Authorised Dealers is invited to Master Direction - Risk Management and…"
-    },
-    {
-      "source": "RBI",
-      "title": "Risk Management and Inter-Bank Dealings - Foreign Exchange Risk Reserve",
-      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13738&Mode=0",
-      "date": "2026-10-10",
-      "summary": "RBI/2026-27/292 A.P. (DIR Series) Circular No. 26 October 10, 2026 To, All Authorised Dealers Madam/Sir, Risk Management and Inter-Bank Dealings - Foreign Exchange Risk Reserve Attention of Authorised Dealers is invited to the Master…"
-    },
-    {
-      "source": "RBI",
-      "title": "Risk Management and Inter-Bank Dealings",
-      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13737&Mode=0",
-      "date": "2026-10-10",
-      "summary": "RBI/2026-27/291 A.P. (DIR Series) Circular No. 25 October 10, 2026 To, All Authorised Dealers Madam/Sir, Risk Management and Inter-Bank Dealings Attention of Authorised Dealers is invited to the Master Direction - Risk Management and…"
-    },
-    {
-      "source": "RBI",
-      "title": "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement",
-      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13736&Mode=0",
-      "date": "2026-10-09",
-      "summary": "RBI/2026-27/290 DoR.RET.REC.247/12.01.001/2026-27 October 09, 2026 All Scheduled Banks, Madam / Sir, Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement The scheduled banks…"
-    },
-    {
-      "source": "RBI",
-      "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
-      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
-      "date": "2026-10-07",
-      "summary": "RBI/2026-27/289 DOR.MRG.REC.No.245/21-01-002/2026-27 October 07, 2026 Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026 Please refer to paragraph 77(6)…"
-    },
-    {
-      "source": "RBI",
-      "title": "Reserve Bank of India (Payments Banks – Prudential Norms on Capital Adequacy) Third Amendment Directions, 2026",
-      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13734&Mode=0",
-      "date": "2026-10-07",
-      "summary": "RBI/2026-27/288 DOR.MRG.REC.No.244/00-00-001/2026-27 October 7, 2026 Reserve Bank of India (Payments Banks – Prudential Norms on Capital Adequacy) Third Amendment Directions, 2026 Please refer to paragraph 52(5) (i) of the Reserve Bank of…"
-    },
     {
       "source": "SEBI",
       "title": "Commodity derivatives: new penalty formula and position limits",
       "summary": "Revises the penalty formula for position limit breaches, the definition of “Broad Commodity” and client-level position limits.",
       "url": "https://www.sebi.gov.in",
       "date": "2026-09-09"
+    },
+    {
+      "source": "SEBI",
+      "title": "ETF price band circular: deadline moved to 7 September",
+      "summary": "Implementation of the 15 June 2026 circular on ETF base price, price bands and pre-open call auction was pushed from 1 to 7 September.",
+      "url": "https://www.sebi.gov.in",
+      "date": "2026-08-28"
+    },
+    {
+      "source": "SEBI",
+      "title": "FPIs can sign powers of attorney to custodians digitally",
+      "summary": "Digital signatures under the IT Act are accepted, so notarisation, apostille and consularisation are no longer required.",
+      "url": "https://www.sebi.gov.in",
+      "date": "2026-08-20"
+    },
+    {
+      "source": "SEBI",
+      "title": "Privately placed municipal bonds: face value and escrow norms",
+      "summary": "Sets ₹1 lakh and ₹10,000 face value norms, adds SPV escrow rules and extends financial result filing deadlines.",
+      "url": "https://www.sebi.gov.in",
+      "date": "2026-08-11"
+    },
+    {
+      "source": "SEBI",
+      "title": "Digital accessibility audits: deadline extended to 31 October 2026",
+      "summary": "Regulated entities get more time to complete accessibility audits and fix the findings. Other obligations are unchanged.",
+      "url": "https://www.sebi.gov.in",
+      "date": "2026-07-31"
+    },
+    {
+      "source": "SEBI",
+      "title": "GARUDA mechanism lets AIFs launch schemes faster",
+      "summary": "AIF schemes can launch without waiting for SEBI’s PPM review, using merchant banker certification or self-certification.",
+      "url": "https://www.sebi.gov.in",
+      "date": "2026-07-30"
     },
     {
       "source": "RBI",
@@ -107,11 +51,25 @@
       "date": "2026-07-15"
     },
     {
+      "source": "SEBI",
+      "title": "Custodian fee moves from annual to monthly",
+      "summary": "Replaces the annual fee with a monthly fee payable within 15 days of month-end, effective 1 October 2026.",
+      "url": "https://www.sebi.gov.in",
+      "date": "2026-07-03"
+    },
+    {
       "source": "GST & Customs",
       "title": "Notification 21/2026-Customs (T): duty exemption for tariff item 26020010",
       "summary": "Amends Notification 62/2022-Customs to exempt goods under this tariff item from basic customs duty.",
       "url": "https://www.cbic.gov.in",
       "date": "2026-06-09"
+    },
+    {
+      "source": "GST & Customs",
+      "title": "Notification 01/2026-Central Tax (Rate): beverage rates aligned",
+      "summary": "Updates the list of goods with specific GST rates to match the Finance Act 2026.",
+      "url": "https://www.cbic.gov.in",
+      "date": "2026-04-30"
     }
   ]
 }
