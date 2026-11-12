@@ -1,6 +1,34 @@
 {
-  "updated": "2026-11-11T08:06:19+00:00",
+  "updated": "2026-11-12T08:42:04+00:00",
   "items": [
+    {
+      "source": "SEBI",
+      "title": "Reporting requirement under Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standard (CRS) revised through Income-Tax Act, 2025 read with Income-Tax Rules, 2026",
+      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/reporting-requirement-under-foreign-account-tax-compliance-act-fatca-and-common-reporting-standard-crs-revised-through-income-tax-act-2025-read-with-income-tax-rules-2026_105705.html",
+      "date": "2026-11-12",
+      "summary": ""
+    },
+    {
+      "source": "RBI",
+      "title": "RBI releases data on ECB / FCCB / RDB for September 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63961",
+      "date": "2026-11-12",
+      "summary": "The Reserve Bank of India has today released the data on External Commercial Borrowings (ECB), Foreign Currency Convertible Bonds (FCCB) and Rupee Denominated Bonds (RDB) through General Permission and Special Permission for the month of…"
+    },
+    {
+      "source": "RBI",
+      "title": "Reserve Bank of India (Domestic Money Transfer) Directions, 2026",
+      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0",
+      "date": "2026-11-11",
+      "summary": "RBI/DPSS/2026-27/476 CO.DPSS.POLC.No.S843/02-27-019/2026-2027 November 11, 2026 All Scheduled Commercial Banks, including Regional Rural Banks / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks /…"
+    },
+    {
+      "source": "RBI",
+      "title": "Conversion/Switch of Government of India Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63958",
+      "date": "2026-11-11",
+      "summary": "Government of India announces the conversion/switch of its securities through auction for an aggregate amount of ₹25,000 crore (face value). The security-wise details of the conversion/switch are given as under: Date of Auction Source…"
+    },
     {
       "source": "RBI",
       "title": "Supersession of Board of Directors of Abhyudaya Co-operative Bank Ltd., Mumbai - Extension of period",
@@ -107,25 +135,11 @@
       "summary": "The Reserve Bank of India today released the data showing daily merchant and Inter-Bank transactions in foreign exchange for the period October 05, 2026 – October 09, 2026. All Figures are in USD Millions Position Date MERCHANT INTER BANK…"
     },
     {
-      "source": "RBI",
-      "title": "Foreign Exchange Turnover Data: September 28, 2026 – October 01, 2026",
-      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63926",
-      "date": "2026-11-05",
-      "summary": "The Reserve Bank of India today released the data showing daily merchant and Inter-Bank transactions in foreign exchange for the period September 28, 2026 – October 01, 2026. All Figures are in USD Millions Position Date MERCHANT INTER…"
-    },
-    {
       "source": "SEBI",
       "title": "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)",
       "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/memorandum-of-understanding-between-securities-and-exchange-board-of-india-sebi-and-digital-india-bhashini-division-dibd-_105575.html",
       "date": "2026-11-04",
       "summary": ""
-    },
-    {
-      "source": "RBI",
-      "title": "Constitution of the Technical Consultative Committee for Financial Markets (TCCFM)",
-      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63914",
-      "date": "2026-11-04",
-      "summary": "In pursuance of the announcement made in the Statement on Developmental and Regulatory Policies dated October 7, 2026 , the Reserve Bank of India announces the constitution of the Technical Consultative Committee for Financial Markets…"
     },
     {
       "source": "SEBI",
@@ -149,23 +163,9 @@
       "summary": ""
     },
     {
-      "source": "RBI",
-      "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
-      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
-      "date": "2026-11-03",
-      "summary": "RESERVE BANK OF INDIA FOREIGN EXCHANGE DEPARTMENT CENTRAL OFFICE Mumbai 400 001 Notification No. FEMA 23(R)/(2)/2026-RB November 02, 2026 Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment)…"
-    },
-    {
       "source": "SEBI",
       "title": "Extension of timeline with respect to compliance of Digital Accessibility Circulars",
       "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
-      "date": "2026-10-31",
-      "summary": ""
-    },
-    {
-      "source": "SEBI",
-      "title": "Ease of Compliance for FPIs – Rationalisation of KYC Review Periodicity",
-      "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/ease-of-compliance-for-fpis-rationalisation-of-kyc-review-periodicity_105522.html",
       "date": "2026-10-31",
       "summary": ""
     },
