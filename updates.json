@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T08:33:06+00:00",
+  "updated": "2026-11-14T07:53:11+00:00",
   "items": [
     {
       "source": "SEBI",
@@ -7,6 +7,20 @@
       "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/niveshak-shivir-to-be-held-on-november-17-2026-at-new-delhi_105731.html",
       "date": "2026-11-13",
       "summary": ""
+    },
+    {
+      "source": "RBI",
+      "title": "Developments in India’s Balance of Payments for the Month of September 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63974",
+      "date": "2026-11-13",
+      "summary": "Preliminary data on India’s balance of payments (BoP) for September 2026 are presented in the following table. Major Items of India's Balance of Payments (US$ billion) Item September 2025 PR September 2026 P April-September 2025 PR…"
+    },
+    {
+      "source": "RBI",
+      "title": "Scheduled Banks’ Statement of Position in India as on October 31, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63971",
+      "date": "2026-11-13",
+      "summary": "(Amount in ₹ crore) SCHEDULED COMMERCIAL BANKS (Including RRBs, SFBs, PBs and LABs) ALL SCHEDULED BANKS 31-Oct-2025# 15-Oct-2026 31-Oct-2026 31-Oct-2025# 15-Oct-2026 31-Oct-2026 I LIABILITIES TO THE BKG.SYSTEM (A) a) Demand & Time…"
     },
     {
       "source": "SEBI",
@@ -126,20 +140,6 @@
       "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63929",
       "date": "2026-11-05",
       "summary": "The Reserve Bank of India today released the data showing daily merchant and Inter-Bank transactions in foreign exchange for the period October 19, 2026 – October 23, 2026. All Figures are in USD Millions Position Date MERCHANT INTER BANK…"
-    },
-    {
-      "source": "RBI",
-      "title": "Foreign Exchange Turnover Data: October 12, 2026 – October 16, 2026",
-      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63928",
-      "date": "2026-11-05",
-      "summary": "The Reserve Bank of India today released the data showing daily merchant and Inter-Bank transactions in foreign exchange for the period October 12, 2026 – October 16, 2026. All Figures are in USD Millions Position Date MERCHANT INTER BANK…"
-    },
-    {
-      "source": "RBI",
-      "title": "Foreign Exchange Turnover Data: October 05, 2026 – October 09, 2026",
-      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63927",
-      "date": "2026-11-05",
-      "summary": "The Reserve Bank of India today released the data showing daily merchant and Inter-Bank transactions in foreign exchange for the period October 05, 2026 – October 09, 2026. All Figures are in USD Millions Position Date MERCHANT INTER BANK…"
     },
     {
       "source": "SEBI",
