@@ -1,6 +1,69 @@
 {
-  "updated": "2026-11-25T10:13:13+00:00",
+  "updated": "2026-11-26T09:54:03+00:00",
   "items": [
+    {
+      "source": "SEBI",
+      "title": "Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024",
+      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html",
+      "date": "2026-11-26",
+      "summary": ""
+    },
+    {
+      "source": "SEBI",
+      "title": "Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies",
+      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/simplification-of-client-on-boarding-and-rationalisation-of-risk-management-framework-at-kyc-registration-agencies_105839.html",
+      "date": "2026-11-26",
+      "summary": ""
+    },
+    {
+      "source": "SEBI",
+      "title": "Caution to investors regarding impersonation of SEBI registered intermediaries on closed user groups of social media platforms",
+      "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/caution-to-investors-regarding-impersonation-of-sebi-registered-intermediaries-on-closed-user-groups-of-social-media-platforms_105944.html",
+      "date": "2026-11-26",
+      "summary": ""
+    },
+    {
+      "source": "SEBI",
+      "title": "Advisory Regarding Unregulated Pre-listing Premium often called as Grey Market Premium (GMP) for Upcoming Initial Public Offers (IPOs)",
+      "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/advisory-regarding-unregulated-pre-listing-premium-often-called-as-grey-market-premium-gmp-for-upcoming-initial-public-offers-ipos-_105942.html",
+      "date": "2026-11-26",
+      "summary": ""
+    },
+    {
+      "source": "SEBI",
+      "title": "SEBI hosts IOSCO’s Asia-Pacific Regional Committee Regulatory Roundtable on Market Infrastructure Institutions",
+      "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-hosts-iosco-s-asia-pacific-regional-committee-regulatory-roundtable-on-market-infrastructure-institutions_105848.html",
+      "date": "2026-11-26",
+      "summary": ""
+    },
+    {
+      "source": "SEBI",
+      "title": "Review of Margin Framework for Commodity Derivatives Segment",
+      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-margin-framework-for-commodity-derivatives-segment_105799.html",
+      "date": "2026-11-26",
+      "summary": ""
+    },
+    {
+      "source": "RBI",
+      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry",
+      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13758&Mode=0",
+      "date": "2026-11-26",
+      "summary": "RBI/2026-27/309 DoR.AML.REC.261/14.06.001/2026-27 November 26, 2026 The Chairpersons/ CEOs of the Commercial Banks, Small Finance Banks, Payment Banks, Urban Co-operative Banks, Rural Co-operative Banks, Regional Rural Banks, Local Area…"
+    },
+    {
+      "source": "RBI",
+      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries",
+      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13757&Mode=0",
+      "date": "2026-11-26",
+      "summary": "RBI/2026-27/308 DoR.AML.REC.260/14.06.001/2026-27 November 26, 2026 The Chairpersons/ CEOs of the Commercial Banks, Small Finance Banks, Payment Banks, Urban Co-operative Banks, Rural Co-operative Banks, Regional Rural Banks, Local Area…"
+    },
+    {
+      "source": "RBI",
+      "title": "RBI Bulletin – November 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64041",
+      "date": "2026-11-25",
+      "summary": "Today, the Reserve Bank released the November 2026 issue of its monthly Bulletin. The Bulletin includes six speeches, four articles and current statistics. The four articles are: I. State of the Economy; II. Shifting Drivers of Imported…"
+    },
     {
       "source": "RBI",
       "title": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026",
@@ -65,27 +128,6 @@
       "summary": "State Bank of India, HDFC Bank, and ICICI Bank continue to be identified as Domestic Systemically Important Banks (D-SIBs) under the same bucketing structure as in the 2025 list of D-SIBs . The additional Common Equity Tier 1 (CET1)…"
     },
     {
-      "source": "RBI",
-      "title": "Reserve Bank issues Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
-      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64009",
-      "date": "2026-11-20",
-      "summary": "The Foreign Exchange Management (Export of Goods and Services) Regulations, 2015 were superseded by the Foreign Exchange Management (Export and Import of Goods and Services) Regulations, 2026, which were issued on January 13, 2026 , and…"
-    },
-    {
-      "source": "RBI",
-      "title": "Finances of Panchayati Raj Institutions",
-      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64002",
-      "date": "2026-11-19",
-      "summary": "Today, the Reserve Bank released the second edition of its biennial Report titled “ Finances of Panchayati Raj Institutions ”. The theme of this edition is ‘Local Finances and Capacity Building in Rural India’. Drawing upon a balanced…"
-    },
-    {
-      "source": "RBI",
-      "title": "RBI cancels Certificate of Registration of 49 NBFCs",
-      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63979",
-      "date": "2026-11-16",
-      "summary": "The Reserve Bank of India, in exercise of powers conferred on it under Section 45-IA (6) of the Reserve Bank of India Act, 1934, has cancelled the Certificate of Registration of the following companies. Sr. No. Name of the Company…"
-    },
-    {
       "source": "SEBI",
       "title": "Niveshak Shivir to be held on November 17, 2026 at New Delhi",
       "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/niveshak-shivir-to-be-held-on-november-17-2026-at-new-delhi_105731.html",
@@ -125,48 +167,6 @@
       "title": "Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
       "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/revision-of-limits-relating-to-requirement-of-underlying-exposure-for-currency-derivatives-contracts_105614.html",
       "date": "2026-11-06",
-      "summary": ""
-    },
-    {
-      "source": "SEBI",
-      "title": "SEBI Constitutes Working Group to Review the Innovators Growth Platform Framework",
-      "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-working-group-to-review-the-innovators-growth-platform-framework_105610.html",
-      "date": "2026-11-05",
-      "summary": ""
-    },
-    {
-      "source": "SEBI",
-      "title": "Review of Know Your Client process for individual Person Resident Outside India clients",
-      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-know-your-client-process-for-individual-person-resident-outside-india-clients_105603.html",
-      "date": "2026-11-05",
-      "summary": ""
-    },
-    {
-      "source": "SEBI",
-      "title": "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)",
-      "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/memorandum-of-understanding-between-securities-and-exchange-board-of-india-sebi-and-digital-india-bhashini-division-dibd-_105575.html",
-      "date": "2026-11-04",
-      "summary": ""
-    },
-    {
-      "source": "SEBI",
-      "title": "Framework for Issuance of Depository Receipts on Units of REITs​",
-      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-reits-_105558.html",
-      "date": "2026-11-03",
-      "summary": ""
-    },
-    {
-      "source": "SEBI",
-      "title": "Framework for Issuance of Depository Receipts on Units of InvITs​",
-      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-invits-_105557.html",
-      "date": "2026-11-03",
-      "summary": ""
-    },
-    {
-      "source": "SEBI",
-      "title": "Cooling off period for offer for sale by Private listed InvITs",
-      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/cooling-off-period-for-offer-for-sale-by-private-listed-invits_105539.html",
-      "date": "2026-11-03",
       "summary": ""
     },
     {
